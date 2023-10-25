@@ -21,7 +21,7 @@
 
 <div style="text-align: justify">Autenticação e Autorização: A API utiliza o Spring Security para autenticar os usuários e gerenciar permissões de acesso a recursos protegidos.</div><br>
 
-<div style="text-align: justify">erenciamento de Usuários: Os usuários autenticados têm a capacidade de atualizar suas informações de perfil e gerenciar suas configurações.</div><br>
+<div style="text-align: justify">gerenciamento de Usuários: Os usuários autenticados têm a capacidade de atualizar suas informações de perfil e gerenciar suas configurações.</div><br>
 
 <div style="text-align: justify">Documentação Interativa: A documentação da API é gerada automaticamente com o Swagger, permitindo que os desenvolvedores visualizem e testem as chamadas de API disponíveis.</div><br>
 
